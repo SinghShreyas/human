@@ -1,0 +1,14 @@
+# Ignore Mac system files
+.DS_store
+
+# Datset folder
+Dataset
+
+# Ignore all text files
+credentials.txt
+
+# Ignore files related to API keys
+.env
+
+# Ignore SASS config files
+.sass-cache

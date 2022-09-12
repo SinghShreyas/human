@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+ArticleName,A Double-Blind Placebo-Controlled Trial of Fluoxetine for Repetitive Behaviors and Global Severity in Adult Autism Spectrum Disorders,,,,,,,,,,,,,
+Authors,Stacey Wasserman,Casara J. Ferretti,Latha Soorya,William Chaplin,Bonnie P. Taylor,Erika Swanson,Cara Settipani,Evdokia Anagnostou,Eric Hollander,,,,,
+Year,2012,,,,,,,,,,,,,
+JournalName,American Journal of Psychiatry,,,,,,,,,,,,,
+MeasurementUnit,%,,,,,,,,,,,,,
+AdministrativeEvent,trial,Double-Blind Placebo-Controlled Trial,enrolled,studies,,,,,,,,,,
+MedicationName,ﬂuoxetine,citalopram,Fluoxetine,,,,,,,,,,,
+SymptomOrSign,social  communication,side effects,interests,symptom,anxiety,morphogenetic  abnormalities,repetitive behaviors,Repetitive Behaviors,restricted,rigidity,responders,repetitive  behaviors,"impairments  in  social
+relatedness",Repetitive  behaviors
+ConditionQualifier,moderate,mild,Global Severity,,,,,,,,,,,
+Age,pediatric,adults,Adult,adolescence,children,Adults,adulthood,childhood,older,,,,,
+Diagnosis,ASDs,autism spectrum disorders,Autism  spectrum  disorders,Spectrum Disorders,obsessive-compulsive  symptoms,autism,obsessive-compulsive  disorder,ASD,OCD,dysfunction,Autism,,,
+TreatmentName,placebo,intervention,,,,,,,,,,,,
+Time,2001,1993,12-week,8-year period,week 12,,,,,,,,,
+Dosage,10  mg/day,80  mg,,,,,,,,,,,,
+Course,improvement,greater,reduction,growing,increasing,continue,increase,persistent,,,,,,
+ExaminationName,Yale-Brown Obsessive Compulsive Scale,Yale-Brown compulsion subscale,platelet,compulsion subscale,risk,HT levels,CGI,"Clinical Global
+Impression",,,,,,
+MeasurementValue,35,50,elevated,30,1.5,48,1.8,2,,,,,,
+RelationalOperator,or less,,,,,,,,,,,,,
+MedicationClass,psychopharmacologic  agents,SSRIs,Selective  serotonin  reuptake  inhibitors,psychopharmacological  agents,,,,,,,,,,
+GeneOrProtein,serotonin-transporter-linked polymorphic region,"5-
+HT",5-HTTLPR,serotonin,5-HT,,,,,,,,,

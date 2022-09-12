@@ -1,0 +1,52 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+Time,30-week,"2011, 11:111",2007/2008,2005,three month,studies,last 2 months,12 hours,three-month,three months,Morning,two months,2008/2009,overnight,8,first 3 weeks,last two months,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Direction,West,R,South,Northeast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MedicationClass,mineral supplements,minerals,vitamins,mineral supplementation,vitamin,"second
+generation” supplement",Vitamins,mineral supplement,multi-vitamin/,Vitamin,"mineral
+supplement",multi-vitamin/mineral supplement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Age,adults,16,16 years,children,Children,3,5,60 years old,adult,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Diagnosis,vitamin D deficiency,R2,co,zona,autism,vitamin C deficiency,PDD,attention deficit disorder,neurotypical,mea,ASD,NOS,Asperger’s,hypothyroid,cipants,Developmental Disabilities,anemia,gastrointestinal problems,"metabolic
+disturbances",nutritional insufficiency,intellectual development,learning disorders,"chil-
+dren",developmental disorders,health problems,"autism spectrum
+disorders",Autism,scurvy,rickets,calcium,"symp-
+toms","neurotypical chil-
+dren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TreatmentName,supplementation,"nutri-
+tional supplementation",chelation treatment,treatment,placebo,treatments,limited,dietary,"self-
+restricted diets",adjunct therapy,medical interventions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AdministrativeEvent,"enrolled
+in the study",double-blind,placebo-controlled study,"double-
+blind",studies,"start of
+the study",open-label studies,study,"open-
+label pilot study",treatment study,randomized,treatment studies,enrolled in the study,"start of the
+study",enroll,"placebo-controlled
+studies",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SymptomOrSign,stress,Hyperactivity,sleep,morbid,improvements,"meta-
+bolic imbalances",well-absorbed,adequate health,"metabolic sta-
+tus",behavioral improve,Tantrumming,impaired methylation,poor diet,symptoms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ExaminationName,PGI-R,plasma adenosine-5’-triphosphate,metabolic biomarkers,ATP,plasma amino acids,neurotransmitters,glu,kers,reduced nicotinamide adenine dinucleotide phosphate,metabolic status,S-adenosylmethionine,blood levels,questionnaires,autism severity,"S-
+adenosylmethionine",total,medical assessment,reduced glutathione,measurements,SAM,biomarkers,measurements of nutritional,"metabolic
+functioning","ratio of oxidized glutathione
+to reduced glutathione",plasma sulfate,autism severity scales,Ritvo-Freeman scale,total sulfate,NADPH,sulfation,nutritional,"uri-
+dine",analysis,"Morning
+urine samples",reduced nicotinamide adenine dinucleotide,first-morning (overnight,nitrotyrosine,blood samples,vitamin K,pre,Language,GSSG:GSH,methylation,oxidative stress biomar,NADH,blood,"nutritional sta-
+tus","urine
+collections",free,oxidative stress,severity,Nutritional,urinary excretion,Regression analysis,glutathione,laboratory,urines,"nutri-
+ents","Parental Global
+Impressions-Revised",biomarkers for the neurotypical,"metabolic
+status","plasma
+tryptophan",physical exam,biotin
+Course,reduction,"up
+or down",improvements,up,change,improvement,greater,improved,improving,Change,changes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MeasurementValue,normal,49,27,reference range,near-normal levels,within,28,high,"Low
+levels",agreement,end of the reference range,lower,29,30,17,25,high levels,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MeasurementUnit,%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MedicationName,ment,vitamin methyl-B12,"supple-
+ment",tathione,vitamin B6,"vita-
+min",trimethylglycine,folinic acid,vitamin C,magnesium,biotin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MedicationRoute,Oral,oral,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeneOrProtein,methylation,glutathione,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FamilyRelation,parents,child,families,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConditionQualifier,severity,relative,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HealthcareProfession,nurses,psychiatrist,study physician,physician,physicians,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dosage,high-dose,moderate dosage,110 mg/ kg,very high dose,full dose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
